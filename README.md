@@ -4,6 +4,8 @@
 
 This project implements a maze-solving algorithm in C++ using the floodfill (Breadth-First Search) technique. It simulates how a robot (similar to a micromouse) navigates through the maze, discovers walls, updates its knowledge of the environment, and finds the shortest path to a goal area.
 
+<img width="600" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/2ee847e7-69d5-4346-868c-941dab08b860" />
+
 🚀 **Features**
 - ✅ 8x8 maze representation using a 2D grid.
 - ✅ Each cell stores wall information (up, right, down, left).
