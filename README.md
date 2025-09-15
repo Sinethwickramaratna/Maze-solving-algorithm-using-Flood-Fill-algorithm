@@ -39,13 +39,13 @@ The maze walls are hardcoded in the `init_maze()` function. The goal area is des
 To compile the program, use the following command:
 
 ```
-g++ maze_solver.cpp -o maze_solver
+g++ Maze_solving_algorithm.cpp -o Maze_solving_algorithm
 ```
 
 To run the program, execute:
 
 ```
-./maze_solver
+./Maze_solving_algorithm
 ```
 
 🖼️ **Example Output**
